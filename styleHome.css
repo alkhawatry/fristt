@@ -1,0 +1,41 @@
+/*Colors
+  
+Bacround:
+  0B0C10
+  Secondary Background:
+  1F2833
+  Gray
+  C5C6C7
+  Primary
+  66FCF1
+ Secondary:
+ 45A29
+*/
+
+body{font-family: 'Montserrat', sans-serif;background-color:#9EFAC3 }
+h1,h2,h3,h4,h5,h6{font-weight: 700;color:#1F2833;}
+a{color:#66FCF1;}
+input{background-color:#1F2833 !important;
+        color:#66FCF1 !important; }
+/*HEADFER*/
+.navbar{
+    background-color: #0B0C10;
+    color:#66FCF1 !important; 
+}
+.nvbar-brand{}
+.btn-main{
+    background-color:#66FCF1 !important;
+    color:#0B0C10; 
+}
+
+.col-lg-8{background-color: dimgray}
+
+
+
+
+
+
+
+ /*--footer Section--*/
+footer{background-color:#1F2833 !important;
+        color:#66FCF1 !important; }
